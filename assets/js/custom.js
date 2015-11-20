@@ -58,7 +58,7 @@ $(document).ready(function() {
 				animationOptions: { 
 				    duration: 750, 
 				    easing: 'linear', 
-				    queue: false, 
+				    queue: false
 				}              	 
 			});	            
 
